@@ -1,7 +1,7 @@
 # C++ Project
 
 ## CMake
-### Initialize
+### Init
 Initializes this CMake project.
 ```shell
 just init
